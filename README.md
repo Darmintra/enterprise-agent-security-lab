@@ -4,7 +4,7 @@ A hands-on security architecture lab exploring the risks and controls associated
 
 ## Scenario
 
-MeridianBank is a fictional financial institution deploying an internal AI agent named Mira.
+TheMBank is a fictional financial institution deploying an internal AI agent named Mira.
 
 Mira will eventually interact with synthetic customer data, internal documents, and simulated enterprise tools.
 

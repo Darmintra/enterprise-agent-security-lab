@@ -7,19 +7,7 @@ users data they are not authorized to access. A user prompt is first sent to the
 
 The AI architecture is as following:
 
-Prompt
-  ↓
-LLM
-  ↓
-Action decision
-  ↓
-Tool request
-  ↓
-Dispatcher
-  ↓
-Authorization
-  ↓
-Tool
+Prompt -> LLM -> Action decision -> Tool request -> Dispatcher -> Authorization -> Tool
 
 ## Scenario
 
